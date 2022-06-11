@@ -1,0 +1,4 @@
+theme=Black,Lime,Red
+font=Consolas; 20,25pt
+size=865,573
+pos=277,125
